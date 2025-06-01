@@ -38,5 +38,15 @@
     "ExpirationDate": "2025-12-01 19:47:36",
     "IsActive": true,
     "CreatedAt": "2025-06-01 19:47:36"
+  },
+  {
+    "LicenseKey": "4805-1269-5771-1169-6",
+    "HWID": "",
+    "PCName": "DESKTOP-ELCV0K8",
+    "IPAddress": "",
+    "StartDate": "2025-06-01 19:49:57",
+    "ExpirationDate": "2025-12-01 19:49:57",
+    "IsActive": true,
+    "CreatedAt": "2025-06-01 19:50:00"
   }
 ]
