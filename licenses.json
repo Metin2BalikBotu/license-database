@@ -6,7 +6,7 @@
     "IPAddress": "192.168.1.32",
     "StartDate": "2025-06-02 00:32:16",
     "ExpirationDate": "2026-06-02 00:32:16",
-    "IsActive": true,
+    "IsActive": false,
     "CreatedAt": "2025-06-02 00:32:16"
   }
 ]
