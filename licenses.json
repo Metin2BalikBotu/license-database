@@ -7,5 +7,14 @@
     "ExpirationDate": "2025-09-02 01:14:57",
     "IsActive": true,
     "CreatedAt": "2025-06-02 01:14:57"
+  },
+  {
+    "LicenseKey": "5098-8204-2968-5094-3",
+    "HWID": "",
+    "PCName": "",
+    "StartDate": "2025-06-02 02:16:11",
+    "ExpirationDate": "2025-09-02 02:16:11",
+    "IsActive": true,
+    "CreatedAt": "2025-06-02 02:16:12"
   }
 ]
