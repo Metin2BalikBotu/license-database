@@ -15,7 +15,7 @@
     "IPAddress": "",
     "StartDate": "2025-06-01 19:31:52",
     "ExpirationDate": "2025-12-01 19:31:52",
-    "IsActive": true,
+    "IsActive": false,
     "CreatedAt": "2025-06-01 19:31:54"
   }
 ]
